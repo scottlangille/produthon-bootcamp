@@ -1,0 +1,33 @@
+body {
+    width: 100%;
+}
+
+.desc {
+    padding: 30px;
+
+    min-width: 80%;
+    max-height: 100vh;
+    overflow-y: auto;
+}
+
+h1 {
+    margin: 0;
+    margin-bottom: 0.4em;
+    line-height: 1em;
+}
+
+.desc-details {
+    margin-bottom: 30px;
+    color: #273A64;
+    line-height: 1.4em;
+
+    font-size: 1.1em;
+}
+
+.desc-step-num {
+    margin-bottom: 2px;
+}
+
+.desc-step-detail {
+    font-size: 1.15em;
+}

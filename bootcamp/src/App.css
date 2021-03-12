@@ -1,0 +1,126 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Main */
+
+body {
+  overflow: hidden;
+}
+
+main {
+  font-family: 'Proxima Nova', 'Arial', 'sans-serif';
+}
+
+.container {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+/* Sidebar */
+
+.sidebar {
+  background-color: #0C1832;
+  height: 100vh;
+  min-width: 300px;
+  width: 380px;
+}
+
+.activity-button {
+  width: 100%;
+  height: 66px;
+
+  background-color: #0C1832;
+  color: #fff;
+
+  cursor: pointer;
+}
+
+.activity-button-text {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  padding: 9px;
+}
+
+.activity-button-date {
+  line-height: 21px;
+  text-align: center;
+  width: 40px;
+  margin-top: 2px;
+  margin-bottom: 4px;
+}
+
+.activity-button-date-dow {
+  text-transform: uppercase;
+
+  font-size: 11pt;
+}
+
+.activity-button-date-dd {
+  font-size: 22pt;
+}
+
+.activity-button-separator {
+  width: 1px;
+  height: 40px;
+  background-color: #F45A5A;
+  /* flex: 1 1 auto; */
+  margin-left: 7px;
+  margin-right: 14px;
+  margin-top: 3px;
+  /* margin-top: 18px; */
+}
+
+.activity-button-details {
+}
+
+.activity-button-title {
+  font-size: 13pt;
+  font-weight: 600;
+}
+
+.activity-button-subtitle {
+  text-transform: uppercase;
+  font-size: 9pt;
+  color: #BFC2C8;
+}
+
+.active {
+  background-color: #273A64;
+}
