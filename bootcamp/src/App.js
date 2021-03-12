@@ -22,7 +22,7 @@ function App() {
     <main>
       <div className="container">
         <div className="sidebar">
-          {data.activities.map(activity => <Module key={activity.id} Data={activity} Done={done[activity.id]} Click={() => setCurrentActivity(activity.id)} currentActivity={currentActivity} />)}
+          {data.activities.map(activity => <Module key={activity.id} Data={activity} Done={done[activity.id]} Click={() => {setCurrentActivity(activity.id); document.cookie = "currentActivity="+activity.id}} currentActivity={currentActivity} />)}
         </div>
         <ModuleDescription OnCheck={(id, isDone) => handleComplete(id, isDone)} Done={done[currentActivity]} Activity={data.activities[currentActivity]} />
       </div>
