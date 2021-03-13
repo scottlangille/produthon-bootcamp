@@ -81,18 +81,18 @@ main {
       margin-left: 11px;
     }
 
-    &:hover {
-      position: absolute;
+    // &:hover {
+    //   position: absolute;
 
-      min-width: 300px;
-      width: 300px;
-      .activity-button-details, .activity-button-separator, .logo {
-        display: initial;
-      }
-      .hamburger {
-        margin-left: 11px;
-      }
-    }
+    //   min-width: 300px;
+    //   width: 300px;
+    //   .activity-button-details, .activity-button-separator, .logo {
+    //     display: initial;
+    //   }
+    //   .hamburger {
+    //     margin-left: 11px;
+    //   }
+    // }
   }
 
   @media (max-width: 668px) {
