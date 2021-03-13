@@ -7,7 +7,7 @@ const ModuleDescription = (props) => {
     const data = props.Activity;
 
     return (
-        <body>
+        <body id="body-desc">
             <div className="desc">
                 {/* <div>
                     <p>{JSON.stringify(props.Activity)}</p>

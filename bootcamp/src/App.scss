@@ -1,0 +1,224 @@
+// @import '../node_modules/material-design-icons/iconfont/material-icons.css';
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Main */
+
+body {
+  overflow: hidden;
+}
+
+main {
+  font-family: 'proxima-nova', 'Arial', 'sans-serif';
+}
+
+.container {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+/* Sidebar */
+
+.sidebar {
+  position: relative;
+  background-color: #0C1832;
+  height: 100vh;
+  min-width: 300px;
+  width: 300px;
+
+  margin-right: -60px;
+  
+  -webkit-user-select: none; /* Safari */        
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  user-select: none; /* Standard */
+
+  &.menu-closed {
+    min-width: 60px;
+    width: 60px;
+    .activity-button-details, .activity-button-separator, .logo {
+      display: none;
+    }
+    .hamburger {
+      margin-left: 11px;
+    }
+
+    &:hover {
+      position: absolute;
+
+      min-width: 300px;
+      width: 300px;
+      .activity-button-details, .activity-button-separator, .logo {
+        display: initial;
+      }
+      .hamburger {
+        margin-left: 11px;
+      }
+    }
+  }
+
+  @media (max-width: 668px) {
+    position: absolute;
+    width: 100vw;
+
+    &.menu-closed {
+      position: relative;
+    }
+  }
+}
+
+.left {
+  margin-right: 60px;
+}
+
+.topbar {
+  color: #fff;
+  text-align: left;
+  // color: #F45A5A;
+  padding: 11px 9px 10px 4px;
+  
+  .hamburger {
+    display: initial;
+    font-size: 28px;
+    // margin-bottom: -8px;
+    // line-height: 36px;
+    vertical-align: middle;
+    margin-left: 11px;
+
+    cursor: pointer;
+
+    &:hover {
+      color: #F45A5A;
+    }
+  }
+
+  .logo {
+    display: initial;
+
+    vertical-align: middle;
+    text-overflow: clip;
+    // text-align: center;
+    margin-left: 17px;
+    padding-top: 1px;
+
+    font-weight: 800;
+    font-size: 18px;
+    text-transform: uppercase;
+  }
+}
+
+.topbar-separator {
+  width: 100%;
+  border-top: 1px solid #ffffff32;
+  margin: 0 0 5px 0;
+}
+
+.activity-button {
+  width: 100%;
+  height: 66px;
+
+  background-color: #0C1832;
+  color: #fff;
+
+  cursor: pointer;
+
+  &:hover {
+    background-color: #1D273F;
+
+    &.active {
+      background-color: #273A64;
+    }
+  }
+}
+
+.activity-button-text {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  padding: 9px;
+}
+
+.activity-button-date {
+  line-height: 21px;
+  text-align: center;
+  width: 40px;
+  margin-top: 2px;
+  margin-bottom: 4px;
+}
+
+.activity-button-date-dow {
+  text-transform: uppercase;
+
+  font-size: 11pt;
+}
+
+.activity-button-date-dd {
+  font-size: 22pt;
+}
+
+.activity-button-separator {
+  width: 1px;
+  height: 40px;
+  background-color: #F45A5A;
+  /* flex: 1 1 auto; */
+  margin-left: 7px;
+  margin-right: 14px;
+  margin-top: 3px;
+  /* margin-top: 18px; */
+}
+
+.activity-button-details {
+}
+
+.activity-button-title {
+  font-size: 13pt;
+  font-weight: 600;
+}
+
+.activity-button-subtitle {
+  text-transform: uppercase;
+  font-size: 9pt;
+  color: #BFC2C8;
+}
+
+.active {
+  background-color: #273A64;
+}
