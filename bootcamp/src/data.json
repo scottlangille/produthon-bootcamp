@@ -9,9 +9,9 @@
             "details" : "This workshop explores the first step towards product development process with product leader and entrepreneur Alan Albert.",
             "steps" : [
                 "Watch 45-minute <a target=\"_blank\" href=\"https:\/\/youtu.be\/KpxPMkJr3xg?t=229\">YouTube video<\/a>, from 03:49 to 48:00.",
-                "Pair up with another participant and complete the workshop activity.",
-                "Reflect on what you learned, etc.",
-                "Congratulations! Mark this activity as complete."
+                "Pair up with another participant (from your team or Discord) and complete the workshop activity. Watch the end of the YouTube video for details.",
+                "Reflect on what you learned and share your interviewing experience in the #share-your-work channel in Discord.",
+                "Congratulations! You've completed this activity. Join us in Discord at 8:00 PM PST for a Kahoot Quiz: 1st place wins a $25 gift card!"
             ]
         },
         {
@@ -23,7 +23,7 @@
             "details" : "How do you prioritize product features and solutions? This video workshop will guide you through product process through solving a real-life case study provided by Rise People.",
             "steps" : [
                 "Watch 40-minute <a target=\"_blank\" href=\"https:\/\/youtu.be\/qFY2QIoqcik?t=887\">YouTube video<\/a>, from 14:47 to 56:52.",
-                "Congratulations! Mark this activity as complete."
+                "Congratulations! You've completed this activity."
             ]
         },
         {
@@ -34,9 +34,12 @@
             "dd" : "17",
             "details" : "This live activity is a continuation of yesterday's video workshop on Feature Prioritization. It includes a real-life case study provided by Rise People.",
             "steps" : [
-                "Watch 14-minute introduction to the case study in this YouTube video, from 57:00 to 110:45.",
-                "Find a partner or two to complete the activity. This <a target=\"_blank\" href=\"https:\/\/docs.google.com\/document\/d\/1IdM8gOe0iYymwt5Y_duuxRgTwlK_dTe0fwYIROvGzjA\">Google doc<\/a> contains all relevant case information.",
-                "Congratulations! Mark this activity as complete."
+                "Watch 14-minute introduction to the case study in this <a target=\"_blank\" href=\"https:\/\/youtu.be\/qFY2QIoqcik?t=3420\">YouTube video<\/a>, from 57:00 to 110:45.",
+                "Open <a target=\"_blank\" href=\"https:\/\/docs.google.com\/document\/d\/1il6fRcs-vIZnGZJYkZ_8OuGvqG5dyZ2fzxy6pLSkBIc\">this case document<\/a> and read through the case information. (10 min)",
+                "Find a group of at least 2-4 people to work through the task together. Ask your Produthon teammates to join you. Or, if you don't have a team yet, you can make friends in the Produthon Discord. (40 min)",
+                "Once you've completed the deliverables, create 3 slides with your group (link to be released soon).",
+                "Share a PDF copy of your slides in the #share-your-work channel in Discord.",
+                "Congratulations! You've completed this activity. Join us in Discord at 8:00 PM PST for a Kahoot Quiz: 1st place wins a $25 gift card!"
             ]
         },
         {
@@ -48,8 +51,8 @@
             "live_start" : "6:30 PM PST",
             "details" : "Wrap up your product development process by learning various tools and techniques to validate and find metrics for your product, then tackle a live case with feedback from an experienced Product Manager.",
             "steps" : [
-                "Join us on <a target=\"_blank\" href=\"\">Zoom<\/a> from 6:30 PM – 8:00 PM PST.",
-                "Congratulations! Mark this activity as complete."
+                "Join us on <a>Zoom<\/a> from 6:30 PM – 8:00 PM PST.",
+                "Congratulations! You've completed this activity."
             ]
         },
         {
@@ -58,10 +61,10 @@
             "subtitle" : "Live Networking",
             "dow" : "FRI",
             "dd" : "19",
-            "details" : "Connect with your team members in this live networking session and begin to think about potential problems relating to the Produthon's theme: Innovating in the Digital Workspace.",
+            "details" : "Don't have a team yet? Attend this networking social to meet competitors with complementary skills and form a team of 4 together!",
             "steps" : [
-                "Join us on <a target=\"_blank\" href=\"\">Zoom<\/a> from 00:00 PM – 00:00 PM PST.",
-                "Congratulations! Mark this activity as complete."
+                "Join us on the Produthon Discord from 7:00 – 8:15 PM PST (with a final Kahoot Quiz at the end)!",
+                "Congratulations! You've completed this activity."
             ]
         }
     ]
