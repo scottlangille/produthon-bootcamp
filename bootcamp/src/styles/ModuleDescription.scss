@@ -17,12 +17,12 @@
 
 h1 {
     margin: 0;
-    margin-bottom: 0.4em;
+    margin-bottom: 0.55em;
     line-height: 1em;
 }
 
 .desc-details {
-    margin-bottom: 30px;
+    margin-bottom: 14px;
     color: #273A64;
     line-height: 1.4em;
 
@@ -35,4 +35,16 @@ h1 {
 
 .desc-step-detail {
     font-size: 1.15em;
+}
+
+b {
+    color: #ff0000;
+    font-weight: 600;
+}
+
+br {
+    display: block;
+    margin-top: 10px;
+    content: " ";
+    line-height: 22px;
 }

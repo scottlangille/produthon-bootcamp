@@ -3,15 +3,15 @@
         {
             "id" : 0,
             "title" : "Problem Discovery",
-            "subtitle" : "Video Workshop + Activity",
+            "subtitle" : "Video Workshop + Pair Activity",
             "dow" : "MON",
             "dd" : "15",
             "details" : "This workshop explores the first step towards product development process with product leader and entrepreneur Alan Albert.",
             "steps" : [
-                "Watch 45-minute <a target=\"_blank\" href=\"https:\/\/youtu.be\/KpxPMkJr3xg?t=229\">YouTube video<\/a>, from 03:49 to 48:00.",
-                "Pair up with another participant (from your team or Discord) and complete the workshop activity. Watch the end of the YouTube video for details.",
-                "Reflect on what you learned and share your interviewing experience in the <strong>#share-your-work<\/strong> channel in Discord.",
-                "Congratulations! You've completed this activity. Join us in Discord at 8:00 PM PST for a Kahoot Quiz: 1st place wins a $25 gift card!"
+                "Watch the <a target=\"_blank\" href=\"https:\/\/youtu.be\/KpxPMkJr3xg?t=229\">45-minute video workshop<\/a>, from 03:49 to 48:00. There's a lot of content, so don't forget to take notes!",
+                "Pair up with another participant (from your team or Discord) and complete the workshop activity. Watch the <a target=\"_blank\" href=\"https:\/\/youtu.be\/KpxPMkJr3xg?t=2878\">3-minute introduction<\/a> to the activity from 48:00 to 51:00.",
+                "Reflect on what you learned and share your interviewing experience in the <strong>#share-your-work<\/strong> channel in Discord.<\/br><em>Each time you share your work or write a meaningful comment about another group's work (max. 3 per module), you're entered into a prize draw for a $25 gift card. The winner will be announced at the end of Bootcamp week!<\/em>",
+                "Congratulations! You've completed this activity. Join us in Discord at <b>8:00 PM PST<\/b> for a Kahoot Quiz: 1st place wins a $25 gift card!"
             ]
         },
         {
@@ -22,24 +22,25 @@
             "dd" : "16",
             "details" : "How do you prioritize product features and solutions? This video workshop will guide you through product process through solving a real-life case study provided by Rise People.",
             "steps" : [
-                "Watch 40-minute <a target=\"_blank\" href=\"https:\/\/youtu.be\/qFY2QIoqcik?t=887\">YouTube video<\/a>, from 14:47 to 56:52.",
+                "Watch <a target=\"_blank\" href=\"https:\/\/youtu.be\/qFY2QIoqcik?t=887\">40-minute video workshop<\/a>, from 14:47 to 56:52. There's a lot of content, so don't forget to take notes!",
+                "Begin working through steps 1–3 of <strong>Feature Prioritization Pt. 2<\/strong> in preparation for tomorrow's activity if you have time.",
                 "Congratulations! You've completed this activity. Get ready for a Kahoot Quiz on what you learned tomorrow!"
             ]
         },
         {
             "id" : 2,
             "title" : "Feature Prioritization Pt. 2",
-            "subtitle" : "Live Activity",
+            "subtitle" : "Group Activity",
             "dow" : "WED",
             "dd" : "17",
             "details" : "This live activity is a continuation of yesterday's video workshop on Feature Prioritization. It includes a real-life case study provided by Rise People.",
             "steps" : [
-                "Watch 14-minute introduction to the case study in this <a target=\"_blank\" href=\"https:\/\/youtu.be\/qFY2QIoqcik?t=3420\">YouTube video<\/a>, from 57:00 to 110:45.",
-                "Open <a target=\"_blank\" href=\"https:\/\/docs.google.com\/document\/d\/1il6fRcs-vIZnGZJYkZ_8OuGvqG5dyZ2fzxy6pLSkBIc\">this case document<\/a> and read through the case information. (10 min)",
-                "Find a group of at least 2-4 people to work through the task together. Ask your Produthon teammates to join you. Or, if you don't have a team yet, you can make friends in the Produthon Discord. (40 min)",
-                "Once you've completed the deliverables, create 3 slides with your group (link to be released soon).",
-                "Share a PDF copy of your slides in the <strong>#share-your-work<\/strong> channel in Discord.",
-                "Congratulations! You've completed this activity. Join us in Discord at 8:00 PM PST for a Kahoot Quiz: 1st place wins a $25 gift card!"
+                "Watch the <a target=\"_blank\" href=\"https:\/\/youtu.be\/qFY2QIoqcik?t=3420\">14-minute introduction video<\/a> to the case study, from 57:00 to 110:45.",
+                "Open <a target=\"_blank\" href=\"https:\/\/docs.google.com\/document\/d\/1il6fRcs-vIZnGZJYkZ_8OuGvqG5dyZ2fzxy6pLSkBIc\">this case document<\/a> and read through the case information. (~10 min)",
+                "Find a group of at least 2-4 people to work through the task together. Ask your Produthon teammates to join you. Or, if you don't have a team yet, use the <strong>#find-a-partner<\/strong> channel in the Bootcamp section of Discord.",
+                "With your group, open <a>this Google Slides template (link coming soon)<\/a> to work through the feature prioritization process. (~30 min)",
+                "Share a PDF copy of your slides in the <strong>#share-your-work<\/strong> channel in Discord. And comment on another group's work!<\/br><em>Each time you share your work or write a meaningful comment about another group's work (max. 3 per module), you're entered into a prize draw for a $25 gift card. The winner will be announced at the end of Bootcamp week!<\/em>",
+                "Congratulations! You've completed this activity. Join us in Discord at <b>8:00 PM PST<\/b> for a Kahoot Quiz: 1st place wins a $25 gift card!"
             ]
         },
         {
@@ -49,10 +50,10 @@
             "dow" : "THU",
             "dd" : "18",
             "live_start" : "6:30 PM PST",
-            "details" : "Wrap up your product development process by learning various tools and techniques to validate and find metrics for your product, then tackle a live case with feedback from an experienced Product Manager.",
+            "details" : "Wrap up your product development process by learning various tools and techniques to validate and find metrics for your product, then tackle a live case with feedback from Scott Baldwin, a Product Management leader from Productboard.",
             "steps" : [
                 "<a target=\"_blank\" href=\"http:\/\/bit.ly\/productvalidation\">Register for the event<\/a> to receive the Zoom link.",
-                "Join us on Zoom from 6:30 – 8:00 PM PST.",
+                "Join us on Zoom from <b>6:30 – 8:00 PM PST<\/b> for the live workshop.",
                 "Congratulations! You've completed this activity. Get ready for a Kahoot Quiz on what you learned tomorrow!"
             ]
         },
@@ -64,7 +65,8 @@
             "dd" : "19",
             "details" : "Don't have a team yet? Attend this networking social to meet competitors with complementary skills and form a team of 4 together!",
             "steps" : [
-                "Join us on the Produthon Discord from 7:00 – 8:15 PM PST (with a final Kahoot Quiz at the end)!",
+                "Join us in Discord from <b>7:00 – 8:00 PM PST<\/b> for to find some teammates. Turning on your video camera is encouraged.",
+                "Join us in Discord at <b>8:00 PM PST<\/b> for a final Kahoot Quiz: 1st place wins a $25 gift card!<\/br><em>This will be based on yesterday's Product Validation content and all of the PM strategies you've learned during Bootcamp week.<\/em>",
                 "Congratulations! You've completed this activity."
             ]
         }
