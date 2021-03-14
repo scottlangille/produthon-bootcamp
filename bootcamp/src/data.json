@@ -11,7 +11,7 @@
                 "Watch the <a target=\"_blank\" href=\"https:\/\/youtu.be\/KpxPMkJr3xg?t=229\">45-minute video workshop<\/a>, from 03:49 to 48:00. There's a lot of content, so don't forget to take notes!",
                 "Pair up with another participant (from your team or Discord) and complete the workshop activity. Watch the <a target=\"_blank\" href=\"https:\/\/youtu.be\/KpxPMkJr3xg?t=2878\">3-minute introduction<\/a> to the activity from 48:00 to 51:00.",
                 "Reflect on what you learned and share your interviewing experience in the <strong>#share-your-work<\/strong> channel in Discord.<\/br><em>Each time you share your work or write a meaningful comment about another group's work (max. 3 per module), you're entered into a prize draw for a $25 gift card. The winner will be announced at the end of Bootcamp week!<\/em>",
-                "Congratulations! You've completed this activity. Join us in Discord at <b>8:00 PM PST<\/b> for a Kahoot Quiz: 1st place wins a $25 gift card!"
+                "Congratulations! You've completed this activity. Join us in Discord at <b>8:00 PM PDT<\/b> for a Kahoot Quiz: 1st place wins a $25 gift card!"
             ]
         },
         {
@@ -40,7 +40,7 @@
                 "Find a group of at least 2-4 people to work through the task together. Ask your Produthon teammates to join you. Or, if you don't have a team yet, use the <strong>#find-a-partner<\/strong> channel in the Bootcamp section of Discord.",
                 "With your group, open <a>this Google Slides template (link coming soon)<\/a> to work through the feature prioritization process. (~30 min)",
                 "Share a PDF copy of your slides in the <strong>#share-your-work<\/strong> channel in Discord. And comment on another group's work!<\/br><em>Each time you share your work or write a meaningful comment about another group's work (max. 3 per module), you're entered into a prize draw for a $25 gift card. The winner will be announced at the end of Bootcamp week!<\/em>",
-                "Congratulations! You've completed this activity. Join us in Discord at <b>8:00 PM PST<\/b> for a Kahoot Quiz: 1st place wins a $25 gift card!"
+                "Congratulations! You've completed this activity. Join us in Discord at <b>8:00 PM PDT<\/b> for a Kahoot Quiz: 1st place wins a $25 gift card!"
             ]
         },
         {
@@ -49,11 +49,11 @@
             "subtitle" : "Live Workshop",
             "dow" : "THU",
             "dd" : "18",
-            "live_start" : "6:30 PM PST",
+            "live_start" : "6:30 PM PDT",
             "details" : "Wrap up your product development process by learning various tools and techniques to validate and find metrics for your product, then tackle a live case with feedback from Scott Baldwin, a Product Management leader from Productboard.",
             "steps" : [
                 "<a target=\"_blank\" href=\"http:\/\/bit.ly\/productvalidation\">Register for the event<\/a> to receive the Zoom link.",
-                "Join us on Zoom from <b>6:30 – 8:00 PM PST<\/b> for the live workshop. There's a lot of content, so don't forget to take notes!",
+                "Join us on Zoom from <b>6:30 – 8:00 PM PDT<\/b> for the live workshop. There's a lot of content, so don't forget to take notes!",
                 "Congratulations! You've completed this activity. Get ready for a Kahoot Quiz on what you learned tomorrow!"
             ]
         },
@@ -63,11 +63,11 @@
             "subtitle" : "Live Networking",
             "dow" : "FRI",
             "dd" : "19",
-            "live_start" : "7:00 PM PST",
+            "live_start" : "7:00 PM PDT",
             "details" : "Don't have a team yet? Attend this networking social to meet competitors with complementary skills and form a team of 3-4 together!",
             "steps" : [
-                "Join us in Discord from <b>7:00 – 8:00 PM PST<\/b> to find some teammates. Turning on your video camera is encouraged.",
-                "Join us in Discord at <b>8:00 PM PST<\/b> for a final Kahoot Quiz: 1st place wins a $25 gift card!<\/br><em>This will be based on yesterday's Product Validation content and all of the PM strategies you've learned during Bootcamp week.<\/em>",
+                "Join us in Discord from <b>7:00 – 8:00 PM PDT<\/b> to find some teammates. Turning on your video camera is encouraged.",
+                "Join us in Discord at <b>8:00 PM PDT<\/b> for a final Kahoot Quiz: 1st place wins a $25 gift card!<\/br><em>This will be based on yesterday's Product Validation content and all of the PM strategies you've learned during Bootcamp week.<\/em>",
                 "Congratulations! You've completed this activity, which concludes Bootcamp. We hope you're able to apply your learnings from these workshops during the Produthon weekend—and in all your future product creations!"
             ]
         }
