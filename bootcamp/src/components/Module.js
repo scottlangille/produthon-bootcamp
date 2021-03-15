@@ -22,7 +22,7 @@ const Module = (props) => {
             <div className="activity-button-separator"></div>
             <div className="activity-button-details">
               <div className="activity-button-title">{data.title}</div>
-              <div className="activity-button-subtitle">{data.subtitle}</div>
+              <div className="activity-button-subtitle">{data.subtitle}<span className="live">{data.live_start}</span></div>
             </div>
           </div>
           <div className="activity-button-icons">
