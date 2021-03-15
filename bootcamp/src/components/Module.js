@@ -9,12 +9,15 @@ const Module = (props) => {
     if (props.currentActivity == data.id) active = " active";
     console.log("props.currentActivity: " + props.currentActivity);
 
+    let colouredDate = "";
+    if (props.currentActivity == 0) colouredDate = " today" // Monday
+
     return (
         <div className={"activity-button"+active} onClick={props.Click}>
           <div className="activity-button-text">
             <div className="activity-button-date">
-              <div className="activity-button-date-dow">{data.dow}</div>
-              <div className="activity-button-date-dd">{data.dd}</div>
+              <div className={"activity-button-date-dow" + colouredDate}>{data.dow}</div>
+              <div className={"activity-button-date-dd" + colouredDate}>{data.dd}</div>
             </div>
             <div className="activity-button-separator"></div>
             <div className="activity-button-details">
