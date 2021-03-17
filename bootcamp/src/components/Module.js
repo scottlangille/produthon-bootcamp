@@ -10,7 +10,7 @@ const Module = (props) => {
     console.log("props.currentActivity: " + props.currentActivity);
 
     let colouredDate = "";
-    if (data.id == 1) colouredDate = " today" // Tuesday
+    if (data.id == 2) colouredDate = " today" // Wednesday
 
     return (
         <div className={"activity-button"+active} onClick={props.Click}>
