@@ -73,6 +73,33 @@
                 "Join us in Discord at <b>8:00 PM PDT<\/b> for a final Kahoot Quiz: 1st place wins a $25 gift card!<\/br><em>This will be based on yesterday's Product Validation content and all of the PM strategies you've learned during Bootcamp week.<\/em>",
                 "Congratulations! You've completed this activity, which concludes Bootcamp. We hope you're able to apply your learnings from these workshops during the Produthon weekend—and in all your future product creations!"
             ]
+        },
+        {
+            "id" : 5,
+            "title" : "Product–Market Fit",
+            "subtitle" : "Live Workshop",
+            "dow" : "SAT",
+            "dd" : "20",
+            "live_start" : "@ 12:00 PM PDT",
+            "details" : "Fill the gaps in your product knowledge by diving into product-market fit: how to find it, market sizing, and competitive analysis with Hirsch Keshav, Founder-in-Residence at Entrepreneur First and former Senior Product Manager at Deloitte.",
+            "steps" : [
+                "Join us on <a target=\"_blank\" href=\"https:\/\/ubc.zoom.us\/j\/65803372560?pwd=eDVMa2F6c002Ry95TlFuSG5tY3Fjdz09\">Zoom<\/a> from <b>12:00 – 1:30 PM PDT<\/b>.",
+                "Congratulations! You've completed this activity. Visit the <strong>#checklist<\/strong> channel in Discord to mark it as complete!"
+            ]
+        },
+        {
+            "id" : 6,
+            "title" : "Figma Prototyping",
+            "subtitle" : "Live Workshop",
+            "dow" : "SAT",
+            "dd" : "20",
+            "live_start" : "@ 7:00 PM PDT",
+            "details" : "Building a prototype without a lot of experience on a design tool can be difficult. Join us for a step-by-step workshop on using Figma to create beautiful and sophisticated prototypes that are demo worthy. Lead by Courtney Young, UBC PMC Designer and Product Design Intern at Snack App.",
+            "steps" : [
+                "<a target=\"_blank\" href=\"https:\/\/www.figma.com\">Create your Figma Account<\/a> and start with a blank canvas.",
+                "Join us on <a target=\"_blank\" href=\"https:\/\/us02web.zoom.us\/j\/88190085195\">Zoom<\/a> from <b>7:00 – 8:30 PM PDT<\/b> and follow along on Figma.",
+                "Congratulations! You've completed this activity. Visit the <strong>#checklist<\/strong> channel in Discord to mark it as complete!"
+            ]
         }
     ]
 }
